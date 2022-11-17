@@ -1,0 +1,49 @@
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.DuplicateElimination.resources
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.Resources.resources
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.exe
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.xml
+C:\books\2012\VB2012HTP\solutions\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.exe
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.xml
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.DuplicateElimination.resources
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.Resources.resources
+C:\Users\Simon\Downloads\sol_ch07\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.exe
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.xml
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.DuplicateElimination.resources
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.Resources.resources
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\ex07_13\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.exe
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.xml
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.DuplicateElimination.resources
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.Resources.resources
+C:\Users\Simon\Google Drive\_My Work in Google\3_mis4420\labs\ch07\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.exe
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.xml
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.pdb
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbprojResolveAssemblyReference.cache
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.DuplicateElimination.resources
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.Resources.resources
+E:\Advanced VB\lab03\DuplicateElimination\DuplicateElimination\obj\x86\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
